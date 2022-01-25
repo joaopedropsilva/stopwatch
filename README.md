@@ -1,6 +1,6 @@
 # Stopwatch
 
-![Stopwatch](./.github/mac.png)
+![Stopwatch](./github/mac.png)
 <br>
 ### Project Link: [stopwatch](https://joaopedropsilva.github.io/stopwatch/)
 
